@@ -10,7 +10,7 @@ Wandi-SASL capabilities are based on the following design methodology:
 * protects element/value pairs to ensure confidentiality, integrity, and authenticity.
 * ensures only authenticated users view protected log messages.
 
-List of [Wandi-SASL capabilities](https://www.istech.com) for Free version, Silver version, Gold version.
+List of [Wandi-SASL capabilities](https://wandi-sasl.github.io/code.list.docx) for Free version, Silver version, Gold version.
 
 How to use the [Wandi-SASL API functions in your C-Program application.](https://www.istech.com)
 * Details for [LoggerStartUp()](https://www.istech.com) function.
