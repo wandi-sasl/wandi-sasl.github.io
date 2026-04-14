@@ -1,4 +1,4 @@
-# Wandi-SASL validates and protects application log messages
+## Wandi-SASL validates and protects application log messages
 Software programs use log messages to show application execution flow. Often these messages contain critical and sensitive information about the behavior of the application and use of confidential data. Current approaches is limited to encrypting messages after the application has saved it to disk. Wandi-SASL adaptable and secure approach addresses many logging limitations and challenges.
 
 Wandi-SASL capabilities are based on the following design methodology:
