@@ -12,7 +12,7 @@ Wandi-SASL capabilities are based on the following design methodology:
 
 List of [Wandi-SASL capabilities](https://wandi-sasl.github.io/code.list.docx) for Free version, Silver version, Gold version.
 
-How to use the [Wandi-SASL API functions in your C-Program application.](https://www.istech.com)
+How to use the [Wandi-SASL API functions in your C-Program application.](https://www.istech.com/?page_id=219)
 * Details for [LoggerStartUp()](https://www.istech.com) function.
 * Details for [LoggerAppsMsg()](https://www.istech.com) function.
 * Details for [LoggerShutDown()](https://www.istech.com) function.
