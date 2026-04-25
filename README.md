@@ -18,7 +18,7 @@ How to use [Wandi-SASL API functions in C/C++ Program application.](Wandi-SASL-U
 
 Setup LoggerMessageDefines.txt file used by Wandi-SASL API functions.
 
-Refer to [Wandi-SASL-examples.c](Wandi-SASL-example.c) for application examples.
+Refer to [Wandi-SASL-examples.c](Wandi-SASL-examples.c) for application examples.
 
 Current and expanding Wandi-SASL capabilities for Free, Silver, and Gold versions.
 [^1]: Wandi-SASL Free Version support capabilities 1 and 2 only.
