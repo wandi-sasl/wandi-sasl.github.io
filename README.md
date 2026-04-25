@@ -13,5 +13,7 @@ How to use Wandi-SASL API functions in C/C++ Program application.
 * Details for [LoggerShutDown()](https://www.istech.com) function.
 
 Setup LoggerMessageDefines.txt file used by Wandi-SASL API functions.
+
 Refer to Wandi-SASL-examples.c.pdf for application examples.
+
 Current and expanding Wandi-SASL capabilities for Free, Silver, and Gold versions.
