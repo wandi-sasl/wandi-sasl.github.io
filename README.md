@@ -20,5 +20,5 @@ Setup LoggerMessageDefines.txt file used by Wandi-SASL API functions.
 
 Refer to [Wandi-SASL-examples.c](Wandi-SASL-examples.c) for application examples.
 
-Current and expanding Wandi-SASL capabilities for Free, Silver, and Gold versions.
+Current and expanding [Wandi-SASL Capabilities](https://www.istech.com/?page_id=570) for Free, Silver, and Gold versions.
 [^1]: Wandi-SASL Free Version support capabilities 1 and 2 only.
