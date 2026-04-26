@@ -16,7 +16,7 @@ How to use [Wandi-SASL API functions in C/C++ Program application.](Wandi-SASL-U
 * Details for [LoggerAppsMsg()](Wandi-SASL-API-LoggerAppsMsg-Function.pdf) function.
 * Details for [LoggerShutDown()](Wandi-SASL-API-LoggerShutDown-Function.pdf) function.
 
-Setup LoggerMessageDefines.txt file used by Wandi-SASL API functions.
+Setup [LoggerMessageDefines.txt](Wandi-SASL-LoggerMessageDefines.pdf) file used by Wandi-SASL API functions.
 
 Refer to [Wandi-SASL-examples.c](Wandi-SASL-examples.c) for application examples.
 
