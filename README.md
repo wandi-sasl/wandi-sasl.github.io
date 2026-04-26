@@ -12,7 +12,7 @@ Wandi-SASL capabilities are based on a Patent Software Design Technology that:
 4. ensures confidentiality, integrity, and authenticity.
 
 How to use [Wandi-SASL API functions in C/C++ Program application.](Wandi-SASL-Using-API-Function.pdf)
-* Details for [LoggerStartUp()](https://www.istech.com) function.
+* Details for [LoggerStartUp()](Wandi-SASL-API-LoggerShutDown-Function.pdf) function.
 * Details for [LoggerAppsMsg()](Wandi-SASL-API-LoggerAppsMsg-Function.pdf) function.
 * Details for [LoggerShutDown()](https://www.istech.com) function.
 
