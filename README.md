@@ -3,9 +3,7 @@
 ## Free version of Wandi-SASL C-Program utility that validates and protects application log messages during development and deployment
 
 </div>
-Software applications use log messages to monitor, analyze and diagnose execution flow. Often these messages contain critical and sensitive information about the behavior and use. Current approaches do not do enough to protect this information. Wandi-SASL provides a secure and adaptable approach to address this and many other logging limitations and challenges.
-
-This freeversion of Wandi-SASL capabilities are based on a [Patent Software Design Technology](https://www.istech.com) that:
+Software applications use log messages to monitor, analyze and diagnose execution flow. Often these messages contain critical and sensitive information about the behavior and use. Current approaches do not do enough to protect this information. Wandi-SASL provides a secure and adaptable approach to address this and many other logging limitations and challenges. This freeversion of Wandi-SASL capabilities are based on a [Patent Software Design Technology](https://www.istech.com) that:
 
 1. uses a simple C-Program print() style function interface.
 2. analyzes for erroneous and malicious use[^1].
