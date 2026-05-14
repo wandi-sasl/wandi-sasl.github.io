@@ -1,6 +1,6 @@
 <div align="center">
   
-##  Free version of Wandi-SASL is a C-Program application utility that validates and protects application log messages during development and deployment
+##  Free version of Wandi-SSAL is a C-Program application utility that validates and protects application log messages during development and deployment
 
 </div>
 
@@ -11,7 +11,7 @@ Software applications use log messages to monitor, analyze and diagnose executio
 3. protects before and after saved to disk.
 4. ensures confidentiality, integrity, and authenticity.
 
-How to use [Wandi-SASL API functions in C/C++ Program application.](Wandi-SASL-Using-API-Function.pdf)
+How to use [Wandi-SSAL API functions in C/C++ Program application.](Wandi-SASL-Using-API-Function.pdf)
 * Details for [LoggerStartUp()](Wandi-SASL-API-LoggerStartUp-Function.pdf) function.
 * Details for [LoggerAppsMsg()](Wandi-SASL-API-LoggerAppsMsg-Function.pdf) function.
 * Details for [LoggerShutDown()](Wandi-SASL-API-LoggerShutDown-Function.pdf) function.
@@ -21,7 +21,7 @@ Setup [LoggerMessageDefines.txt](Wandi-SASL-LoggerMessageDefines.pdf) file used 
 Refer to [Wandi-SASL-examples.c](Wandi-SASL-examples.c) for application examples.
 
 Curent and expanding list of [Wandi-SASL Capabilities](https://www.istech.com/?page_id=570) for Free and Paid versions.
-[^1]: Wandi-SASL Free Version support capabilities 1 and 2 only.
+[^1]: Wandi-SSAL Free Version support capabilities 1 and 2 only.
 
 For Ubuntu Linux OS [Download Install_dst.zip](./Install_dst.zip) file and refer to the **README-n-Install.sh** file for further installation and execution instructions.
 
